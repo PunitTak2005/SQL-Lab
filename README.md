@@ -30,19 +30,6 @@ cd dbms-lab
 mysql -u root -p < scripts/schema.sql
 ```
 
-## 📂 Folder Structure
-```
-dbms-lab/
-│-- schemas/       # Database schema files
-│-- queries/       # SQL queries for lab tasks
-│-- procedures/    # Stored procedures and triggers
-│-- reports/       # Lab reports and documentation
-│-- README.md      # Project documentation
-```
-
-## 📸 Screenshots (if applicable)
-![DBMS Lab Screenshot](https://via.placeholder.com/800x400)
-
 ## 🤝 Contributing
 1. Fork the project
 2. Create a new branch (`git checkout -b feature-branch`)
